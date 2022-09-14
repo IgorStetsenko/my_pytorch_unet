@@ -12,9 +12,9 @@ class EncodingBlock(torch.nn.Module):
         return self.conv(x)
 
 
-class unet_model(torch.nn.Module):
+class Unet(torch.nn.Module):
     def __init__(self, out_channels=11, features=None):
-        super(unet_model, self).__init__()
+        super(Unet, self).__init__()
         if features is None:
             features = [64, 128, 256, 512]
         self.pool = torch.nn.MaxPool2d(kernel_size=(2, 2), stride=(2, 2))
