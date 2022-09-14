@@ -1,1 +1,11 @@
 main_settings.device = "cpu"
+
+file_paths.path_to_train_image = "data/images/"
+file_paths.path_to_train_mask = "data/masks/"
+file_paths.path_to_test_image = "test_image/"
+file_paths.path_to_weights= "weights/best.pth"
+
+neural_network_settings.out_channels = 11
+neural_network_settings.list_features = [64, 128, 256, 512]
+neural_network_settings.num_epoch = 400
+neural_network_settings.LEARNING_RATE = 1e-4
