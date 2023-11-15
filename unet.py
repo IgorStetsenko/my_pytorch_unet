@@ -66,3 +66,4 @@ class Unet(torch.nn.Module):
         
     def lishnyaa_funcia:
     	pass
+        
