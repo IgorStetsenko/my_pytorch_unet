@@ -65,5 +65,3 @@ class Unet(torch.nn.Module):
         return x
         
         
-    def func():
-    	pass
