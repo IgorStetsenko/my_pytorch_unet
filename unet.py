@@ -64,4 +64,6 @@ class Unet(torch.nn.Module):
         x = self.final_layer(x)
         return x
         
+    def lishnyaa_funcia:
+    	pass
         
