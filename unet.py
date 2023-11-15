@@ -63,3 +63,6 @@ class Unet(torch.nn.Module):
         x = self.conv8(x)
         x = self.final_layer(x)
         return x
+        
+    def lishnyaa_funcia:
+    	pass
