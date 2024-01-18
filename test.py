@@ -1,5 +1,6 @@
 import torch
 import cv2
+import numpy
 
 
 def test_function():
