@@ -12,6 +12,8 @@ def test_function2():
 def test_function3():
     pass
 
+def test_function4():
+    pass
 
 if __name__ == "__main__":
     test_function()
