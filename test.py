@@ -7,6 +7,10 @@ def test_function():
 
 def test_function2():
     pass
+    
+def test_function3():
+    pass
+
 
 if __name__ == "__main__":
     test_function()
