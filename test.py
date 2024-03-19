@@ -26,16 +26,7 @@ def test_function7():
     
 def test_function8():
     pass
-    
-<<<<<<< Updated upstream
-def test_functionX():
-    pass
-    
-<<<<<<< Updated upstream
-def test_function10():
-    pass
-=======
->>>>>>> Stashed changes
+
 
 
 if __name__ == "__main__":
