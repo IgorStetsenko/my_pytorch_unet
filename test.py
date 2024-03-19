@@ -26,6 +26,10 @@ def test_function7():
     
 def test_function8():
     pass
+    
+def test_function10():
+    pass
+
 
 if __name__ == "__main__":
     test_function()
