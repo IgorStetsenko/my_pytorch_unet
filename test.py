@@ -25,34 +25,6 @@ def test_function7():
     pass
     
 def test_function8():
-    passdef test_function6():
-    pass
-    
-def test_function7():
-    pass
-    
-def test_function8():
-    passdef test_function6():
-    pass
-    
-def test_function7():
-    pass
-    
-def test_function8():
-    passdef test_function6():
-    pass
-    
-def test_function7():
-    pass
-    
-def test_function8():
-    passdef test_function6():
-    pass
-    
-def test_function7():
-    pass
-    
-def test_function8():
     pass
 
 if __name__ == "__main__":
