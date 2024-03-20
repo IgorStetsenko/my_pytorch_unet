@@ -36,6 +36,9 @@ def test_function10():
 def test_function11():
     pass
 
+def test_function12():
+    pass
+
 if __name__ == "__main__":
     test_function()
 	test_function5()
