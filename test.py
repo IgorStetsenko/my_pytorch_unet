@@ -29,6 +29,9 @@ def test_function8():
 
 def test_function9():
     pass
+    
+def test_function01():
+    pass
 
 
 if __name__ == "__main__":
