@@ -30,8 +30,6 @@ def test_function8():
 def test_function9():
     pass
 
-def test_function10():
-    pass
 
 if __name__ == "__main__":
     test_function()
