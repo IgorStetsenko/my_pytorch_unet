@@ -62,6 +62,10 @@ def test_function14_4():
 
 def test_function15():
     pass
+
+def test_function16():
+    pass
+
 if __name__ == "__main__":
     test_function()
 	test_function5()
