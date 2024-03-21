@@ -46,7 +46,11 @@ def test_function14():
     pass
 
 
-def test_function14.1():
+def test_function14_1():
+    pass
+
+
+def test_function14_2():
     pass
 
 
